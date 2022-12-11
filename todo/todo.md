@@ -1,25 +1,12 @@
-# My todo list
+## create get repo for todo.conky
 
-Read readme for more details
+## Census Tract Website
+[x] postgres
+[.] vue
+[.] fastapi
 
-## task: make todo
+## Better Config
+[ ] [nvim_jupyter][https://pythonawesome.com/a-neovim-plugin-for-running-code-interactively-with-jupyter/]
 
-This is very important task so it goes up
-
-[x] step 1 is done
-[.] step 2 is active
-[ ] step 3 is to be done
-    [ ] invalid step, should start at beginning of line
-    ## invalid task, should start at beginning of line
-
-## task: add alias instruction
-
-less important task go down
-
-text without indicator [ ] or [.] don't show up
-
-```bash
-alias todo="vim $path_to_todo_md"
-```
-
-[ ] will leave this for you to figure out
+## Spanish
+[ ] [tener,hablar,ser/estar][]
